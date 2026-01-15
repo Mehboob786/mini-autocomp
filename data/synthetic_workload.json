@@ -1,0 +1,25 @@
+{
+  "workloads": [
+    {
+      "name": "write_heavy",
+      "description": "High write throughput with minimal reads",
+      "write_rate": 10,
+      "read_rate": 2,
+      "steps": 200
+    },
+    {
+      "name": "read_heavy",
+      "description": "Frequent analytical reads with moderate writes",
+      "write_rate": 4,
+      "read_rate": 25,
+      "steps": 200
+    },
+    {
+      "name": "mixed",
+      "description": "Balanced read and write workload",
+      "write_rate": 6,
+      "read_rate": 12,
+      "steps": 200
+    }
+  ]
+}
