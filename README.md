@@ -43,7 +43,7 @@ mini-autocomp/
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Mehboob786/mini-autocomp.git
    cd mini-autocomp
    ```
 
@@ -246,8 +246,8 @@ The simulation provides insights into why sophisticated compaction frameworks li
 
 **Mehboob Ahmad**
 - Email: mehboobmaitla@gmail.com
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+- LinkedIn: https://www.linkedin.com/in/mehboob-maitla/
+- GitHub: [Mehboob786](https://github.com/Mehboob786)
 
 ## Acknowledgments
 
